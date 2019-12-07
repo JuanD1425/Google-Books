@@ -9,7 +9,7 @@
         "react-scripts": "3.2.0",
         "superagent": "^5.1.2"
     },
-    "proxy": "http://localhost:3001",
+    "homepage": "http://diego-gb.herokuapp.com",
     "scripts": {
         "start": "react-scripts start",
         "build": "react-scripts build",
